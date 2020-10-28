@@ -1,0 +1,6 @@
+C:\Users\usu001\source\repos\Test-Walkthrough\Test.DataAccess\bin\Debug\Test.DataAccess.dll
+C:\Users\usu001\source\repos\Test-Walkthrough\Test.DataAccess\bin\Debug\Test.DataAccess.pdb
+C:\Users\usu001\source\repos\Test-Walkthrough\Test.DataAccess\obj\Debug\Test.DataAccess.csprojAssemblyReference.cache
+C:\Users\usu001\source\repos\Test-Walkthrough\Test.DataAccess\obj\Debug\Test.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\usu001\source\repos\Test-Walkthrough\Test.DataAccess\obj\Debug\Test.DataAccess.dll
+C:\Users\usu001\source\repos\Test-Walkthrough\Test.DataAccess\obj\Debug\Test.DataAccess.pdb

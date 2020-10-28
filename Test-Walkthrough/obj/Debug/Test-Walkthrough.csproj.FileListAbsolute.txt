@@ -1,0 +1,14 @@
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\Test-Walkthrough.exe.config
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\Test-Walkthrough.exe
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\Test-Walkthrough.pdb
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\obj\Debug\Test-Walkthrough.csprojAssemblyReference.cache
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\obj\Debug\Test-Walkthrough.csproj.CoreCompileInputs.cache
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\obj\Debug\Test-Walkthrough.exe
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\obj\Debug\Test-Walkthrough.pdb
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\log4net.dll
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\log4net.xml
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\obj\Debug\Test-Walkthrough.csproj.CopyComplete
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usu001\source\repos\Test-Walkthrough\Test-Walkthrough\bin\Debug\System.Net.Http.Formatting.xml
